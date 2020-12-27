@@ -8,6 +8,8 @@ technologies that make [PuppetDB](https://puppet.com/docs/puppetdb/)
 successful, and which allow us to greatly improve performance, scalability,
 advanced metrics collection, and fine-grained control over the Ruby runtime.
 
+## Test with Travis
+
 ## Release notes
 
 For information about the current and most recent versions of Puppet Server,
